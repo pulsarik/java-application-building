@@ -277,7 +277,9 @@ git clone --branch master --depth 1 https://github.com/ACCOUNT/java-application-
 - [ ] Plain files
 - [ ] RDBMS
 - [ ] NoSQL/NewSQL
+- [ ] ClickHouse
 - [ ] Pros and Cons
+
 ### RDBMS access types
 - [ ] JDBC API: db schema constrains, type mapping, transactions
 - [ ] JPA API: entities and constrains, caching, transactions
